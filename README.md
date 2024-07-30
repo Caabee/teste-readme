@@ -19,6 +19,3 @@ git clone <url>
 '''
 cd repositorio-com-readme
 '''
-
-
-teste aleatorio sla ta veno?
